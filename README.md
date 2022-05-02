@@ -1,2 +1,1 @@
-# JAVASCRIPT
-Learning Javascript
+My first readme
